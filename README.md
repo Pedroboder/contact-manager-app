@@ -237,10 +237,3 @@ Contribuicoes sao bem-vindas! Por favor:
 3. Commit suas mudancas (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
----
-
-## Licenca
-
-Este projeto esta licenciado sob a Licenca MIT - veja o arquivo LICENSE para detalhes.
-
