@@ -244,12 +244,3 @@ Contribuicoes sao bem-vindas! Por favor:
 
 Este projeto esta licenciado sob a Licenca MIT - veja o arquivo LICENSE para detalhes.
 
----
-
-## Suporte
-
-Para duvidas ou problemas, abra uma issue no repositorio GitHub.
-
----
-
-**Desenvolvido com ❤️ usando Manus**
